@@ -8,6 +8,7 @@
   padding: var(--horizontal-space);
   top: 20px;
   background-color: white;
+  z-index: 1;
 }
 .screen-header__title {
   font-size: 23px;
